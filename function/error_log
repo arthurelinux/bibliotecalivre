@@ -1,0 +1,104 @@
+[10-Jun-2020 12:56:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'educador_arthur'@'localhost' (using password: YES) in /home/educador/public_html/biblioteca/function/conexao.php on line 8
+[10-Jun-2020 12:56:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/educador/public_html/biblioteca/function/login.php on line 15
+[10-Jun-2020 13:00:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'educador_arthur'@'localhost' (using password: YES) in /home/educador/public_html/biblioteca/function/conexao.php on line 8
+[10-Jun-2020 13:00:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/educador/public_html/biblioteca/function/login.php on line 15
+[10-Jun-2020 14:54:12 UTC] PHP Notice:  Undefined variable: crip in /home/educador/public_html/biblioteca/function/login.php on line 27
+[10-Jun-2020 14:54:36 UTC] PHP Notice:  Undefined variable: crip in /home/educador/public_html/biblioteca/function/login.php on line 27
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:04:24 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:10:33 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:12:52 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:14:46 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:17:05 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:22:35 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:23:51 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:28:29 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_errno() in /home/educador/public_html/biblioteca/function/cadastro_obra.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 77
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:36:15 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
+[16-Jun-2020 12:36:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_errno() in /home/educador/public_html/biblioteca/function/cadastro_obra.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 77
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: titulo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 6
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: categoria in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 7
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: autor in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 9
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: resumo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 10
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: ano in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 11
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 15
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 16
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: arquivo in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 28
+[16-Jun-2020 12:37:18 UTC] PHP Notice:  Undefined index: capa in /home/educador/public_html/biblioteca/function/cadastro_obra.php on line 36
