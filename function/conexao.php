@@ -1,7 +1,7 @@
 <?php
 	$servidor = "localhost";
-	$usuario = "educador_arthur";
-	$senha = "educadores3027";
+	$usuario = "root";
+	$senha = "";
 	$dbname = "educador_biblioteca";
 
 	//Criar a conexao
