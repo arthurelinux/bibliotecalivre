@@ -1,0 +1,2 @@
+Essa é uma aplicação do Blog Educadores no Linux, dedicado a reunir conteúdos de base de estudos para todos!
+Se você gosta do Blog Educadores no Linux e gostaria de contribuir com o projeto contribua! 
